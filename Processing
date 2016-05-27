@@ -3,3 +3,7 @@ A collection of data source:  https://www.quora.com/Where-can-I-find-large-datas
 Kanggle is really good. And I found some interesting data sets, such as how-isis-uses-twitter, speed-dating-experiment and
 world-development-indicators. I also found a crime-statistics dataset from Data.Gov.UK. There is another good datasets 
 web: https://datahub.io/dataset.
+
+Summary of Immersive and Collaborative Data Visualisation Using Virtual Reality Platforms
+
+Big data science is not about data: it is about discovery and understanding of meaningful patterns hidden in the data. The challenges of analysing big data are not only about data volumes but also about high complexity or high dimensionality. Indeed, there are various techniques for reducing the dimensionality, however, these techniques would smear out the structures that may be hidden in the raw data. “The more dimensions we can visualise effectively, the higher are our chances of recognising potentially interesting patterns, correlation, or outliers.” Besides, we are biologically familiar with seeing the world in 3 dimensions. Therefore, it should be better to use 3D rather than 2D to render the visualisation. As for 3D scene, virtual reality is a good way to observe for it can provide an immersed effect. VR has been shown to have optimistic contribution in domains that whose primary dimensions are spatial.
